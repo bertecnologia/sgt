@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.nao {
+    background-color: #ff3d4a;
+}
+
+.nao:hover {
+    background-color: #fa1626;
+}
+
+.sim {
+    background-color: #4892fa;
+}
+
+.sim:hover {
+    background-color: #056af7;
+}

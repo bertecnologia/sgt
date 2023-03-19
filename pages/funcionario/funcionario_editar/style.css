@@ -1,0 +1,19 @@
+* {
+    margin: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input,
+select {
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.alert-message {
+    display: none;
+    color: red;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3px;
+}

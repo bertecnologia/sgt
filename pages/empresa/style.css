@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.del {
+    color: black;
+    background-color: #f28080;
+}
+
+.del:hover {
+    background-color: #f04a4a;
+}
+
+.edit {
+    color: black;
+    background-color: #05fca1;
+}
+
+.edit:hover {
+    background-color: #02eb48;
+}
+
+.new {
+    color: black;
+    background-color: #4dd0f7;
+}
+
+.new:hover {
+    background-color: #168ede;
+}
